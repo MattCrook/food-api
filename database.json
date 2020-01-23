@@ -1,0 +1,40 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Angel Hair",
+      "category": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Filet",
+      "category": "meat",
+      "ethnicity": "american"
+    },
+    {
+      "id": 3,
+      "name": "Supreme Pizza",
+      "category": "pizza",
+      "ethnicity": "Italian"
+    },
+    {
+      "id": 4,
+      "name": "Lobster",
+      "category": "seafood",
+      "ethnicity": "american"
+    },
+    {
+      "id": 5,
+      "name": "Bison Burger",
+      "category": "meat",
+      "ethnicity": "american"
+    },
+    {
+      "id": 6,
+      "name": "Spaghetti and Meatballs",
+      "category": "pasta",
+      "ethnicity": "italian"
+    }
+  ]
+}

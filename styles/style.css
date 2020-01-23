@@ -1,0 +1,13 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+}
+
+.food_container {
+    flex-direction: column;
+    border: 1px solid red;
+    margin: 4px;
+    width: 30%;
+}
